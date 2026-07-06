@@ -1,6 +1,5 @@
 # Build artifacts (Xcode Cloud tự build lại)
 build_dd/
-build/
 DerivedData/
 *.xcarchive
 *.ipa
