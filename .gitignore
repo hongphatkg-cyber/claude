@@ -1,0 +1,11 @@
+# Build artifacts (Xcode Cloud tự build lại)
+build_dd/
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM
+# macOS
+.DS_Store
+# Secrets (đừng commit key)
+*.p8

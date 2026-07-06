@@ -1,0 +1,10 @@
+File timestamp APIs usage:
+	"System.IO.File::GetCreationTime" used in assemblies:		System
+	"System.IO.File::GetLastWriteTime" used in assemblies:		Assembly-CSharp-firstpass
+		System
+	"System.IO.FileSystemInfo::get_LastAccessTime" used in assemblies:		Assembly-CSharp-firstpass
+	"System.IO.FileSystemInfo::get_CreationTime" used in assemblies:		Assembly-CSharp-firstpass
+	"System.IO.FileSystemInfo::get_LastWriteTime" used in assemblies:		Assembly-CSharp-firstpass
+	"System.IO.FileSystemInfo::get_LastAccessTimeUtc" used in assemblies:		Assembly-CSharp-firstpass
+	"System.IO.FileSystemInfo::get_CreationTimeUtc" used in assemblies:		Assembly-CSharp-firstpass
+	"System.IO.FileSystemInfo::get_LastWriteTimeUtc" used in assemblies:		Assembly-CSharp-firstpass

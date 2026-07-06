@@ -1,0 +1,19 @@
+Library: /Users/tranyen/Downloads/Build_Client-VLTK-Android/Temp/BurstOutput/StaticLibraries/lib_burst_generated
+--platform=iOS
+--backend=burst-llvm-10
+--target=ARMV8A_AARCH64
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--target-framework=NetFramework
+--linker-options=min-ios-version=12.0
+--generate-link-xml=Temp/burst.link.xml
+--temp-folder=/Users/tranyen/Downloads/Build_Client-VLTK-Android/Temp/Burst
+--generate-static-linkage-methods
+--key-folder=/Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/iOSSupport
+--decode-folder=/Users/tranyen/Downloads/Build_Client-VLTK-Android/Library/Burst
+--output=/Users/tranyen/Downloads/Build_Client-VLTK-Android/Temp/BurstOutput/StaticLibraries/lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+
+

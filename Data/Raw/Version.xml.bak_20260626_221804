@@ -1,0 +1,7 @@
+<Config URL="https://cdn.volamusa.com/">
+  <CdnUrl Url="https://cdn.volamusa.com/" />
+  <Application VerText="VoLamUSA" VerCode="39"/>
+  <Resource VerText="VoLamUSA" VerCode="21" />
+  <Store AppsIosUrl="https://testflight.apple.com/join/udem1UCk" AppsAndroidUrl="https://volamusa.com/app/volamusa.apk" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo PushVoiceUrl="https://sdk.volamusa.com/ChatVoiceService.aspx" GetVoiceUrl="https://sdk.volamusa.com/GetVoiceChat.aspx" ServerListUrl="https://sdk.volamusa.com/GetServerListTest.aspx" ServerListUrlBackUp="https://sdk.volamusa.com/GetServerListTest.aspx" VerifyAccountSDK="https://sdk.volamusa.com/VerifyAccount.aspx" LoginAccountSDK="https://sdk.volamusa.com/LoginSDK.aspx" RegisterAccountSDK="https://sdk.volamusa.com/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+</Config>
